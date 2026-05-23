@@ -59,7 +59,7 @@ const maizan = {
     "Freelance Engineer                       (2025–present)",
   ],
   education   : "S1 Sistem Informasi — UPI YPTK Padang (GPA 3.53)",
-  os          : "Arch Linux 🐧  (btw)",
+  os          : ["Arch Linux 🐧  (btw)", "macOS 🍎"],
   motto       : "start with bismillah 🤲",
   impact      : "~900 employees · 30+ hospital units · production system",
   building    : ["SIGAP — HR & Performance System", "BANGSAMSIR — Digital Waste Bank App"],
@@ -109,7 +109,8 @@ Node.js / Express        ██████████████░░░░ 
 Python (ML/AI)           ████████████░░░░░░  65%
 MySQL / PostgreSQL        ██████████████░░░░  75%
 UI/UX  (Figma)           ███████████░░░░░░░  58%
-Linux  (Arch)            █████████████████░  90%
+Arch Linux  🐧           █████████████████░  90%
+macOS  🍎                ██████████████░░░░  75%
 ```
 
 </td>
@@ -445,6 +446,7 @@ Centralized campus space booking — user research, system architecture, UI/UX d
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -460,14 +462,15 @@ Centralized campus space booking — user research, system architecture, UI/UX d
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=izanmaizan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&ring_color=7c3aed&include_all_commits=true&count_private=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=izanmaizan&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=7c3aed&fire=f472b6&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=8b949e&currStreakNum=e9d5ff" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=izanmaizan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&ring_color=7c3aed&cache_seconds=21600" width="49%" />
+<img src="https://streak-stats.demolab.com?user=izanmaizan&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=7c3aed&fire=f472b6&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=8b949e&currStreakNum=e9d5ff" width="49%" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izanmaizan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=10&count_private=true" width="42%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izanmaizan&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=10&cache_seconds=21600" width="38%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izanmaizan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=10&cache_seconds=21600" width="55%" />
 
 </div>
 
@@ -485,21 +488,9 @@ Centralized campus space booking — user research, system architecture, UI/UX d
 
 <br/>
 
-<!-- ══════════════════════ ACTIVITY ══════════════════════ -->
+<!-- ══════════════════════ CONTRIBUTION BY YEAR ══════════════════════ -->
 
-## 📈 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=izanmaizan&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=7c3aed&point=e9d5ff&area=true&area_color=4c1d95" width="98%" />
-
-</div>
-
-<br/>
-
-<!-- ══════════════════════ SUMMARY CARDS ══════════════════════ -->
-
-## 📋 Profile Summary
+## 📅 Contributions by Year
 
 <div align="center">
 
@@ -509,9 +500,22 @@ Centralized campus space booking — user research, system architecture, UI/UX d
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=izanmaizan&theme=tokyonight" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=izanmaizan&theme=tokyonight" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=izanmaizan&theme=tokyonight&utcOffset=7" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=izanmaizan&theme=tokyonight" width="24%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=izanmaizan&theme=tokyonight" width="24%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=izanmaizan&theme=tokyonight" width="24%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=izanmaizan&theme=tokyonight&utcOffset=7" width="24%" />
+
+</div>
+
+<br/>
+
+<!-- ══════════════════════ ACTIVITY ══════════════════════ -->
+
+## 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=izanmaizan&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=7c3aed&point=e9d5ff&area=true&area_color=4c1d95" width="98%" />
 
 </div>
 
