@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:020617,50:0a1628,100:1e40af&height=240&text=Maizan%20Insani%20Akbar&fontSize=56&fontColor=00d4ff&animation=fadeIn&fontAlignY=42&desc=AI%20Researcher%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20SIMRS%20Programmer&descAlignY=63&descColor=7dd3fc&descSize=17&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,30:061020,65:0d2b5f,100:1e40af&height=210&text=Maizan%20Insani%20Akbar&fontSize=54&fontColor=00d4ff&animation=twinkling&fontAlignY=40&desc=AI%20Researcher%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20SIMRS%20Programmer%20%E2%80%A2%20S2%20MTI&descAlignY=62&descColor=7dd3fc&descSize=16&section=header" width="100%" /><img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e40af,40:0d2b5f,80:061020,100:020617&height=80&section=header&reversal=true" width="100%" />
 
 <div align="center">
 
@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2600&pause=900&color=00D4FF&center=true&vCenter=true&repeat=true&width=780&lines=AI+Researcher+%40+Solok+Radjo+%7C+Building+with+YOLOv11;SIMRS+Programmer+%40+RSUD+M.+Natsir+%7C+900%2B+Users;Full+Stack+%7C+TypeScript+%C2%B7+Vue+%C2%B7+React+%C2%B7+Laravel+%C2%B7+Python;Healthcare+IT+Systems+%7C+Hospital+Production+Grade;Computer+Vision+%7C+YOLOv11+%C2%B7+YOLOv8+%C2%B7+OpenCV;3%2B+Years+%7C+110%2B+Repos+%7C+Always+Building+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2600&pause=900&color=00D4FF&center=true&vCenter=true&repeat=true&width=800&lines=S2+Magister+Teknik+Informatika+%7C+UPI+YPTK+Padang;Thesis%3A+Hybrid+YOLOv11%E2%80%93XGBoost+%7C+Coffee+Harvest+AI;AI+Researcher+%40+Solok+Radjo+%7C+YOLOv11+%2B+XGBoost;SIMRS+Programmer+%40+RSUD+M.+Natsir+%7C+900%2B+Users;Full+Stack+%7C+TypeScript+%C2%B7+Vue+%C2%B7+React+%C2%B7+Laravel;3%2B+Years+%7C+110%2B+Repos+%7C+Always+Building+%F0%9F%9A%80" />
 
 <br/><br/>
 
@@ -50,23 +50,26 @@ const maizan = {
   name        : "Maizan Insani Akbar",
   alias       : "izanmaizan",
   location    : "Solok, West Sumatra 🇮🇩",
-  roles       : [
-    "AI Researcher          @ Solok Radjo        (Apr 2026–present)",
-    "SIMRS Programmer       @ RSUD M. Natsir     (Jun 2025–present)",
-    "Full Stack Developer   @ Nur Group          (Oct 2024–present)",
-    "Freelance Engineer                          (Mar 2025–present)",
+  education   : [
+    "S1 Sistem Informasi  — UPI YPTK Padang  · GPA 3.53  ✅",
+    "S2 Magister Teknik Informatika — UPI YPTK Padang · 2024–now 🔬",
   ],
-  education   : "S1 Sistem Informasi — UPI YPTK Padang · GPA 3.53",
+  thesis      : {
+    title    : "Hybrid YOLOv11–XGBoost Berbasis Citra",
+    focus    : "Pemodelan Distribusi Kematangan Buah & Prediksi Waktu Panen Kopi Arabika",
+    location : "BRMP Sumatera Barat · Solok Radjo Academy · Petani Lokal Kabupaten Solok",
+    tech     : "YOLOv11 · XGBoost · Computer Vision · Precision Agriculture",
+    repo     : "github.com/izanmaizan/coffee-harvest-ai",
+  },
+  roles       : [
+    "S2 Researcher  @ Solok Radjo / BRMP Sumbar  (Apr 2026–present)  🎓",
+    "SIMRS Programmer  @ RSUD M. Natsir          (Jun 2025–present)  🏥",
+    "Full Stack Dev    @ Nur Group               (Oct 2024–present)  💻",
+    "Freelance Engineer                          (Mar 2025–present)  🛠️",
+  ],
   os          : ["Arch Linux 🐧  (btw)", "macOS 🍎"],
   motto       : "start with bismillah 🤲",
   impact      : "~900 employees · 30+ hospital units · mission-critical",
-  building    : [
-    "BANGSAMSIR  — Digital Waste Bank Platform (web + mobile + analytics)",
-    "SIGAP       — HR & Performance Management (900 employees)",
-    "RSMN-SAKIP  — Govt. Performance Accountability System",
-    "YOLOv11     — Chili Plant Disease Detection (AI Research)",
-  ],
-  specialties : ["Healthcare IT", "Full Stack Web", "Computer Vision & ML"],
 };
 ```
 
@@ -88,12 +91,12 @@ const maizan = {
 
 | | Domain | Technologies | Level |
 |:---:|:---|:---|:---:|
-| ⚡ | **Frontend** | TypeScript · JavaScript · React · Next.js · Vue 3 · TailwindCSS | ![](https://img.shields.io/badge/Expert-00d4ff?style=flat-square&logoColor=white) |
-| ⚙️ | **Backend** | PHP · Laravel · CodeIgniter · Node.js · Express · FastAPI · Django | ![](https://img.shields.io/badge/Advanced-0ea5e9?style=flat-square&logoColor=white) |
-| 📱 | **Mobile** | React Native · Expo · Capacitor.js · Vue Mobile | ![](https://img.shields.io/badge/Proficient-1d4ed8?style=flat-square&logoColor=white) |
-| 🤖 | **AI / CV** | Python · YOLOv11 · YOLOv8 · TensorFlow · PyTorch · OpenCV | ![](https://img.shields.io/badge/Proficient-1d4ed8?style=flat-square&logoColor=white) |
-| 🗄️ | **Database** | MySQL · PostgreSQL · SQLite · REST API Design | ![](https://img.shields.io/badge/Advanced-0ea5e9?style=flat-square&logoColor=white) |
-| 🖥️ | **Environment** | Arch Linux · macOS · Git · Docker · Postman · Figma | ![](https://img.shields.io/badge/Expert-00d4ff?style=flat-square&logoColor=white) |
+| ⚡ | **Frontend** | TypeScript · JavaScript · React · Next.js · Vue 3 · TailwindCSS | ![](https://img.shields.io/badge/Expert-00d4ff?style=flat-square) |
+| ⚙️ | **Backend** | PHP · Laravel · CodeIgniter · Node.js · Express · FastAPI · Django | ![](https://img.shields.io/badge/Advanced-0ea5e9?style=flat-square) |
+| 📱 | **Mobile** | React Native · Expo · Capacitor.js · Vue Mobile | ![](https://img.shields.io/badge/Proficient-1d4ed8?style=flat-square) |
+| 🤖 | **AI / CV** | Python · YOLOv11 · YOLOv8 · XGBoost · TensorFlow · PyTorch · OpenCV | ![](https://img.shields.io/badge/Proficient-1d4ed8?style=flat-square) |
+| 🗄️ | **Database** | MySQL · PostgreSQL · SQLite · REST API Design | ![](https://img.shields.io/badge/Advanced-0ea5e9?style=flat-square) |
+| 🖥️ | **Environment** | Arch Linux · macOS · Git · Docker · Postman · Figma | ![](https://img.shields.io/badge/Expert-00d4ff?style=flat-square) |
 
 </div>
 
@@ -117,7 +120,8 @@ const maizan = {
 | 🏢 | **Oct 2024 → now** | Nur Group · Part-time | Full Stack Dev · ERP Systems · React.js |
 | 🛠️ | **Mar 2025 → now** | Freelance Software Engineer | Multi-client · JS, React, TypeScript |
 | 🏥 | **Jun 2025 → now** | RSUD M. Natsir · Contract | SIMRS · **~900 users** · BANGSAMSIR · SIGAP · SAKIP |
-| 🤖 | **Apr 2026 → now** | Solok Radjo · Part-time | AI Research · YOLOv11 · Computer Vision |
+| 📖 | **Aug 2024 → now** | UPI YPTK Padang | **S2 Magister Teknik Informatika** · Research: AI & Precision Agriculture |
+| 🤖 | **Apr 2026 → now** | Solok Radjo · BRMP Sumbar | **Tesis S2** · YOLOv11–XGBoost · Coffee Harvest AI |
 
 </div>
 
@@ -128,11 +132,12 @@ const maizan = {
 ## 💼 Work Experience
 
 <details open>
-<summary><b>&nbsp;🤖 AI Researcher — Solok Radjo &nbsp;·&nbsp; Apr 2026–Present</b></summary>
+<summary><b>&nbsp;🤖 AI Researcher (S2 Thesis) — Solok Radjo · BRMP Sumatera Barat &nbsp;·&nbsp; Apr 2026–Present</b></summary>
 <br/>
 
-- Artificial Intelligence research & software engineering
-- YOLOv11 computer vision · ML model development
+- Riset AI untuk Tesis S2 MTI: **Hybrid YOLOv11–XGBoost** pemodelan distribusi kematangan buah kopi Arabika
+- Dataset dari BRMP Sumatera Barat (Arosuka), Solok Radjo Academy, petani lokal Kabupaten Solok
+- YOLOv11 detection 4 kelas (_green, yellow, red, overripe_) + XGBoost prediksi hari panen optimal
 - Solok Regency, West Sumatra · Part-time · Hybrid
 
 </details>
@@ -215,6 +220,41 @@ Developing & maintaining mission-critical systems for **~900 employees** across 
 
 ## 🚀 Featured Projects
 
+### 🎓 S2 Thesis — Magister Teknik Informatika
+
+<div align="center">
+
+<table>
+<tr>
+<td width="100%" valign="top">
+
+**☕ coffee-harvest-ai** — *Tesis S2 MTI*
+
+**HYBRID YOLOV11–XGBOOST BERBASIS CITRA** untuk Pemodelan Distribusi Kematangan Buah dan Prediksi Waktu Panen Optimal pada **Kopi Arabika** Kabupaten Solok.
+
+Sistem deteksi 4 kelas kematangan (_green · yellow · red · overripe_) real-time dengan YOLOv11, diintegrasikan dengan XGBoost yang menerima fitur visual + agronomis + data cuaca API untuk prediksi hari menuju panen optimal. Validasi di **BRMP Sumatera Barat · Solok Radjo Academy · Petani Lokal Solok**.
+
+<br/>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![YOLOv11](https://img.shields.io/badge/YOLOv11-FF6F00?style=flat-square&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-1d4ed8?style=flat-square&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
+
+<br/>
+
+![](https://img.shields.io/badge/S2_MTI_Thesis-UPI_YPTK_Padang-00d4ff?style=flat-square)
+![](https://img.shields.io/badge/Precision_Agriculture-Computer_Vision-0ea5e9?style=flat-square)
+
+[→ View Repo](https://github.com/izanmaizan/coffee-harvest-ai)
+
+</td>
+</tr>
+</table>
+
+</div>
+
 ### 🏥 Production — RSUD M. Natsir Solok
 
 <div align="center">
@@ -237,7 +277,7 @@ Full platform: **web admin** · **nasabah app** · **sherlock analytics**. Sole 
 
 <br/>
 
-![](https://img.shields.io/badge/3_repos-Production%20🟢-00d4ff?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/3_repos-Production%20🟢-00d4ff?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
@@ -255,7 +295,7 @@ HR & Performance Management for **~900 employees** — LKH, attendance, IKIN per
 
 <br/>
 
-![](https://img.shields.io/badge/3_repos-Production%20🟢-00d4ff?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/3_repos-Production%20🟢-00d4ff?style=flat-square)
 
 </td>
 </tr>
@@ -274,7 +314,7 @@ Built full architecture, business logic & DB integration solo. End-to-end.
 
 <br/>
 
-![](https://img.shields.io/badge/solo_build-Production%20🟢-00d4ff?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/solo_build-Production%20🟢-00d4ff?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
@@ -291,7 +331,7 @@ Government performance accountability system for RSUD — compliance & reporting
 
 <br/>
 
-![](https://img.shields.io/badge/govt._system-Production%20🟢-00d4ff?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/govt._system-Production%20🟢-00d4ff?style=flat-square)
 
 </td>
 </tr>
@@ -317,8 +357,6 @@ Latest-gen computer vision. Disease & quality detection on chili plants.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![YOLOv11](https://img.shields.io/badge/YOLOv11-FF6F00?style=flat-square&logoColor=white)
 
-<br/>
-
 [→ View Repo](https://github.com/izanmaizan/yolov11-cabai)
 
 </td>
@@ -334,8 +372,6 @@ Real-time PPE detection · 2,600+ training images · 50 epochs trained.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
-<br/>
-
 [→ View Repo](https://github.com/izanmaizan/PPE-Detection-YOLOv8)
 
 </td>
@@ -349,8 +385,6 @@ Python CLI to access public Indonesian CCTV cameras. Open-source utility.
 <br/>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-<br/>
 
 [→ View Repo](https://github.com/izanmaizan/cctv-indonesia-cli)
 
@@ -368,7 +402,7 @@ Python CLI to access public Indonesian CCTV cameras. Open-source utility.
 [![nicfit-massiveproject](https://github-readme-stats.vercel.app/api/pin/?username=izanmaizan&repo=nicfit-massiveproject&theme=github_dark&hide_border=true&bg_color=0a1628&title_color=00d4ff&icon_color=38bdf8&text_color=e2e8f0)](https://github.com/izanmaizan/nicfit-massiveproject)
 
 [![PPE-Detection-YOLOv8](https://github-readme-stats.vercel.app/api/pin/?username=izanmaizan&repo=PPE-Detection-YOLOv8&theme=github_dark&hide_border=true&bg_color=0a1628&title_color=00d4ff&icon_color=38bdf8&text_color=e2e8f0)](https://github.com/izanmaizan/PPE-Detection-YOLOv8)
-[![bank-transaction-ml-analysis](https://github-readme-stats.vercel.app/api/pin/?username=izanmaizan&repo=bank-transaction-ml-analysis&theme=github_dark&hide_border=true&bg_color=0a1628&title_color=00d4ff&icon_color=38bdf8&text_color=e2e8f0)](https://github.com/izanmaizan/bank-transaction-ml-analysis)
+[![coffee-harvest-ai](https://github-readme-stats.vercel.app/api/pin/?username=izanmaizan&repo=coffee-harvest-ai&theme=github_dark&hide_border=true&bg_color=0a1628&title_color=00d4ff&icon_color=38bdf8&text_color=e2e8f0)](https://github.com/izanmaizan/coffee-harvest-ai)
 
 </div>
 
@@ -416,10 +450,60 @@ Python CLI to access public Indonesian CCTV cameras. Open-source utility.
 ## 📅 Contribution History · 2022 → 2025
 
 <div align="center">
+<sub>📌 <i>Contribution calendar per year — public commits since August 2022</i></sub>
+</div>
 
-<sub>📌 <i>Full contribution timeline since August 2022 — public commits across all years</i></sub>
+<br/>
 
-<br/><br/>
+<div align="center">
+
+**`2022`** &nbsp;—&nbsp; HTML · CSS · PHP · First GitHub Commits
+
+![](https://ghchart.rshah.org/1e40af/izanmaizan)
+
+<sub>🌱 Aug 2022: Joined GitHub · HTML/CSS basics · PHP CRUD · 50+ repos by year-end</sub>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+**`2023`** &nbsp;—&nbsp; React · Node.js · REST API · Building Sprint
+
+![](https://ghchart.rshah.org/1d4ed8/izanmaizan)
+
+<sub>⚡ PHP CRUD mastery · React fundamentals · REST APIs · Full Stack sprint begins</sub>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+**`2024`** &nbsp;—&nbsp; Full Stack · TypeScript · NicFit 🥇 · PT Semen Padang ⭐
+
+![](https://ghchart.rshah.org/0ea5e9/izanmaizan)
+
+<sub>🚀 Next.js · TypeScript · MSIB Top 1 Best Product · PT Semen Padang Score 100/100</sub>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+**`2025`** &nbsp;—&nbsp; SIMRS Production · Vue · Laravel · S2 MTI Begins
+
+![](https://ghchart.rshah.org/38bdf8/izanmaizan)
+
+<sub>🏥 RSUD M. Natsir (900 users) · BANGSAMSIR · SIGAP · S2 Magister Teknik Informatika dimulai</sub>
+
+</div>
+
+<br/>
+
+<div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=izanmaizan&theme=2077" width="98%" />
 
@@ -459,7 +543,9 @@ Python CLI to access public Indonesian CCTV cameras. Open-source utility.
 
 | 🏫 Universitas Putra Indonesia YPTK Padang |
 |:---:|
-| **S1 Sistem Informasi · GPA: 3.53 / 4.00** |
+| **S2 Magister Teknik Informatika · 2024 – present** |
+| Thesis: Hybrid YOLOv11–XGBoost · Kopi Arabika · Precision Agriculture |
+| **S1 Sistem Informasi · GPA: 3.53 / 4.00** ✅ |
 | Padang, West Sumatra, Indonesia |
 
 </div>
@@ -484,7 +570,7 @@ Python CLI to access public Indonesian CCTV cameras. Open-source utility.
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:1e40af,50:0a1628,100:020617&height=160&section=footer&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e40af,40:0d2b5f,80:061020,100:020617&height=80&section=footer&animation=twinkling" width="100%" /><img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:061020,100:1e40af&height=60&section=footer&reversal=true" width="100%" />
 
 <div align="center">
   <sub>Built with ❤️ &nbsp;·&nbsp; Always start with <b>Bismillah</b> 🤲 &nbsp;·&nbsp; <a href="https://github.com/izanmaizan">@izanmaizan</a></sub>
