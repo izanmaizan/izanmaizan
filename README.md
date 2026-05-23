@@ -1,78 +1,76 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,40:1a0533,70:2d1b69,100:4c1d95&height=220&section=header&text=Maizan%20Insani%20Akbar&fontSize=52&fontColor=e9d5ff&animation=fadeIn&fontAlignY=38&desc=بِسْمِ%20اللَّهِ%20الرَّحْمَٰنِ%20الرَّحِيمِ&descAlignY=60&descColor=a78bfa&descSize=20" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0221,25:1e1b4b,55:312e81,80:4c1d95,100:6d28d9&height=220&text=Maizan%20Insani%20Akbar&fontSize=52&fontColor=f5f3ff&animation=fadeIn&fontAlignY=65&desc=AI%20Researcher%20%7C%20Full%20Stack%20Developer%20%7C%20SIMRS%20Programmer&descSize=17&descAlignY=83&descColor=c4b5fd" width="100%" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=1000&color=A78BFA&center=true&vCenter=true&repeat=true&width=720&lines=Full+Stack+Developer+%7C+3%2B+Years;SIMRS+Programmer+%40+RSUD+M.+Natsir+Solok;React+%C2%B7+TypeScript+%C2%B7+Node.js+%C2%B7+Vue;Machine+Learning+%26+Computer+Vision;Building+Healthcare+IT+Systems+%F0%9F%8F%A5;Arch+Linux+user+%28btw+%F0%9F%90%A7%29" />
+<br/>
+
+**بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ**
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/izanmaizan)
-[![Linktree](https://img.shields.io/badge/Linktree-%2339E09B.svg?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/izanmaizan)
-[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:izanmaizan@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=izanmaizan&style=for-the-badge&color=7c3aed&label=VIEWS)](https://github.com/izanmaizan)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&repeat=true&width=780&lines=AI+Researcher+%40+Solok+Radjo+%7C+SIMRS+Programmer+%40+RSUD+M.+Natsir;Full+Stack+Developer+%7C+3%2B+Years+%7C+Solok%2C+West+Sumatra+%F0%9F%87%AE%F0%9F%87%A9;React+%C2%B7+TypeScript+%C2%B7+Vue+%C2%B7+Laravel+%C2%B7+Python;Building+Healthcare+IT+Systems+for+900%2B+Users+%F0%9F%8F%A5;Machine+Learning+%26+Computer+Vision+Enthusiast;Always+Learning%2C+Always+Building+%F0%9F%9A%80" />
+
+<br/><br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Maizan%20Insani%20Akbar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/izanmaizan)
+[![Linktree](https://img.shields.io/badge/Linktree-izanmaizan-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/izanmaizan)
+[![Gmail](https://img.shields.io/badge/Gmail-izanmaizan%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:izanmaizan@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=izanmaizan&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)](https://github.com/izanmaizan)
 
 </div>
 
 <br/>
 
-<!-- ───────────────────────── TERMINAL ───────────────────────── -->
+<div align="center">
 
-```bash
-╔══════════════════════════════════════════════════════════════════════════╗
-║  ●  ●  ●    izanmaizan@arch  —  ~/portfolio  —  zsh  —  80×24          ║
-╠══════════════════════════════════════════════════════════════════════════╣
-║                                                                          ║
-║   izanmaizan@arch:~$ cat about.json                                      ║
-║                                                                          ║
-║   {                                                                      ║
-║     "name"      :  "Maizan Insani Akbar",                               ║
-║     "alias"     :  "izanmaizan",                                        ║
-║     "role"      :  "Full Stack Developer  ·  3+ Years",                 ║
-║     "location"  :  "Solok, West Sumatra 🇮🇩",                            ║
-║     "company"   :  "RSUD M. Natsir Solok",                             ║
-║     "position"  :  "Researcher Eng. & SIMRS Programmer",                ║
-║     "degree"    :  "S1 Sistem Informasi  ·  GPA 3.53",                 ║
-║     "daily_os"  :  "Arch Linux  (btw 🐧)",                              ║
-║     "motto"     :  "start with bismillah 🤲"                            ║
-║   }                                                                      ║
-║                                                                          ║
-║   izanmaizan@arch:~$ ls ./achievements/ -la                              ║
-║                                                                          ║
-║   🥇  nicfit__top-1-best-product-msib-batch-6/                          ║
-║   🥉  3rd-place-developer-festival-infinite-learning/                   ║
-║   🏥  simrs-programmer__rsud-m-natsir-solok-production/                 ║
-║   🎓  s1-sistem-informasi__upi-yptk-padang__gpa-3.53/                   ║
-║   👁   ppe-detection-yolov8__computer-vision-2600-images/               ║
-║                                                                          ║
-║   izanmaizan@arch:~$ uptime && git log --oneline -3                      ║
-║                                                                          ║
-║   ↳ coding since Aug 2022  ·  101+ repos built  ·  still shipping...   ║
-║   ↳ HEAD  →  rsud-mnatsir     :  feat: SIMRS production system          ║
-║   ↳ HEAD~1 → sigap-mobile     :  feat: emergency reporting app          ║
-║   ↳ HEAD~2 → coffee-harvest-ai:  feat: ML-powered harvest prediction    ║
-║                                                                          ║
-║   izanmaizan@arch:~$ █                                                   ║
-║                                                                          ║
-╚══════════════════════════════════════════════════════════════════════════╝
+> *"Code that runs in production for 900+ healthcare workers — that's what drives me to keep building."*
+>
+> — Maizan Insani Akbar · **start with bismillah** 🤲
+
+</div>
+
+<br/>
+
+<!-- ══════════════════════ IMPACT NUMBERS ══════════════════════ -->
+
+<div align="center">
+
+| 🏥 ~900 Active Users | 📦 101+ Repositories | 🥇 Top 1 Best Product | ⭐ 100/100 Internship Score |
+|:---:|:---:|:---:|:---:|
+| SIMRS Production System | Built since Aug 2022 | NicFit · MSIB Batch 6 | PT Semen Padang |
+
+</div>
+
+<br/>
+
+<!-- ══════════════════════ ABOUT ME ══════════════════════ -->
+
+## 👨‍💻 About Me
+
+```typescript
+const maizan = {
+  name        : "Maizan Insani Akbar",
+  alias       : "izanmaizan",
+  location    : "Solok, West Sumatra 🇮🇩",
+  roles       : [
+    "AI Researcher        @ Solok Radjo       (2026–present)",
+    "SIMRS Programmer     @ RSUD M. Natsir    (2025–present)",
+    "Full Stack Developer @ Nur Group         (2024–present)",
+    "Freelance Engineer                       (2025–present)",
+  ],
+  education   : "S1 Sistem Informasi — UPI YPTK Padang (GPA 3.53)",
+  os          : "Arch Linux 🐧  (btw)",
+  motto       : "start with bismillah 🤲",
+  impact      : "~900 employees · 30+ hospital units · production system",
+  building    : ["SIGAP — HR & Performance System", "BANGSAMSIR — Digital Waste Bank App"],
+  specialties : ["Healthcare IT (SIMRS)", "Full Stack Web", "ML & Computer Vision"],
+  ask_me      : ["TypeScript", "Vue/React", "Laravel", "FastAPI", "YOLOv8"],
+};
 ```
 
 <br/>
 
-<!-- ─────────────────────── STATS STRIP ──────────────────────── -->
-
-<div align="center">
-
-![Years Coding](https://img.shields.io/badge/Coding%20Since-Aug%202022-a78bfa?style=flat-square&logo=github&logoColor=white)
-![Repos](https://img.shields.io/badge/Repositories-101%2B-7c3aed?style=flat-square&logo=github&logoColor=white)
-![Languages](https://img.shields.io/badge/Languages-10%2B-5b21b6?style=flat-square&logo=codepen&logoColor=white)
-![OS](https://img.shields.io/badge/OS-Arch%20Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white)
-![Focus](https://img.shields.io/badge/Focus-Healthcare%20IT%20%7C%20ML%2FAI-38bdf8?style=flat-square&logo=amazonaws&logoColor=white)
-
-</div>
-
-<br/>
-
-<!-- ─────────────────────── TWO COLUMN ───────────────────────── -->
+<!-- ══════════════════════ 2-COL: WORKING + SKILLS ══════════════════════ -->
 
 <table>
 <tr>
@@ -80,26 +78,23 @@
 
 ### 🔭 Currently Building
 
-```
-▶  rsud-mnatsir
-   Sistem Informasi RSUD berbasis TypeScript
-   Status: 🟢 Active · Last push: Today
+**🏥 SIGAP** — HR & Performance Management System  
+`Laravel · Vue.js · Capacitor.js` · 🟢 Active
 
-▶  SIGAP System
-   Emergency Reporting — Mobile + Admin Panel
-   Stack: Vue 3 · TypeScript
-   Status: 🟢 Active
+**♻️ BANGSAMSIR** — Digital Waste Bank Platform  
+`Next.js · MySQL · React Native Expo` · 🟢 Active
 
-▶  coffee-harvest-ai
-   Prediksi kualitas panen kopi via ML
-   Stack: Python · scikit-learn
-   Status: 🟡 In Progress
+**🤖 AI Research** — Solok Radjo  
+`Python · ML/AI` · 🟢 Active
 
-▶  Sistem-Informasi-Mahasiswa
-   Academic info system
-   Stack: PHP · MySQL
-   Status: 🟢 Active
-```
+**☕ coffee-harvest-ai** — ML Harvest Prediction  
+`Python · scikit-learn` · 🟡 In Progress
+
+### 🌱 Currently Exploring
+- Advanced TypeScript patterns & design systems
+- Vue 3 Composition API + Pinia state management
+- Deep Learning: PyTorch, YOLOv8 fine-tuning
+- FastAPI + ML model serving in production
 
 </td>
 <td width="50%" valign="top">
@@ -107,14 +102,14 @@
 ### ⚡ Skill Proficiency
 
 ```
-JavaScript / TypeScript  ████████████████░░░  85%
-PHP / Laravel            ███████████████░░░░  78%
-React / Next.js / Vue    ███████████████░░░░  80%
-Node.js / Express        ██████████████░░░░░  73%
-Python (ML/AI)           ████████████░░░░░░░  63%
-MySQL / PostgreSQL        ██████████████░░░░░  73%
-Linux (Arch)             ████████████████░░░  84%
-UI/UX (Figma)            ██████████░░░░░░░░░  52%
+TypeScript / JavaScript  ████████████████░░  87%
+React / Next.js / Vue    ███████████████░░░  82%
+PHP / Laravel / CI       ███████████████░░░  80%
+Node.js / Express        ██████████████░░░░  76%
+Python (ML/AI)           ████████████░░░░░░  65%
+MySQL / PostgreSQL        ██████████████░░░░  75%
+UI/UX  (Figma)           ███████████░░░░░░░  58%
+Linux  (Arch)            █████████████████░  90%
 ```
 
 </td>
@@ -123,134 +118,261 @@ UI/UX (Figma)            ██████████░░░░░░░░�
 
 <br/>
 
-<!-- ──────────────────────── TECH STACK ──────────────────────── -->
+<!-- ══════════════════════ ACHIEVEMENTS ══════════════════════ -->
 
-## 🛠️ Tech Stack
+## 🏆 Achievements & Recognition
 
 <div align="center">
 
-**Frontend**
-
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeigniter&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-
-**Machine Learning & AI**
-
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-
-**Database**
-
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
-**Tools & Environment**
-
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/Arch%20Linux-%231793D1.svg?style=for-the-badge&logo=archlinux&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+| 🥇 | **Top 1 Best Product (Web & Mobile)** — NicFit · MSIB Batch 6 · Infinite Learning |
+|:---:|:---|
+| 🥉 | **3rd Place Developer Festival** — Infinite Learning · Batam |
+| ⭐ | **Score 100/100 (Excellent)** — Internship · PT Semen Padang |
+| 🏥 | **SIMRS Programmer in Production** — RSUD M. Natsir · ~900 Users · 30+ Units |
+| 🤖 | **AI Researcher** — Solok Radjo · Artificial Intelligence & Software Engineering |
+| 👁️ | **PPE Detection YOLOv8** — Computer Vision · 2,600+ Training Images · 50 Epochs |
+| 📦 | **101+ Repositories** — Consistent builder since August 2022 |
 
 </div>
 
 <br/>
 
-<!-- ──────────────────────── PROJECTS ────────────────────────── -->
+<!-- ══════════════════════ JOURNEY ══════════════════════ -->
+
+## 🗺️ My Journey
+
+<div align="center">
+
+```
+  2019 ──── 2021  🌱  SISPALA Secretary · SMAN 1 Linggo Sari Baganti
+                      Leadership, teamwork, natural conservation (1000 pine trees 🌲)
+
+  Aug 2022         🎓  Enrolled: S1 Sistem Informasi · UPI YPTK Padang
+                       First GitHub commit · HTML, CSS, JavaScript begins
+
+  2022 ──── 2023  ⚡  PHP CRUD · React fundamentals · REST APIs
+                      Building momentum · 50+ repos in first year
+
+  Dec 2023         💼  Full Stack Developer · Qwords Cloud Web Hosting (Remote)
+                       Vue.js, React.js, CodeIgniter, Laravel — real client work
+
+  Mar 2024         🔬  Internship · PT. Tazar Guna Mandiri
+                       Expert System: Corn Ear Rot Disease · Certainty Factor
+                       CodeIgniter + MySQL · Decision Support System
+
+  Jan ── Jun 2024  🚀  MSIB Batch 6 · Infinite Learning · Batam (Remote)
+                       PM: Room Reservation System · Poltek Enjinering Indorama
+                       Dev: NicFit (Web + Mobile) → 🥇 TOP 1 BEST PRODUCT
+
+  Aug 2024         🏗️  Internship · PT Semen Padang · Padang (On-site)
+                       Checkpoint Reporting System · React + Express + MySQL
+                       GPS Audit · SPJ Digitalization → Score: ⭐ 100/100 EXCELLENT
+
+  Oct 2024         🏢  Full Stack Developer · Nur Group (Part-time, Hybrid)
+                       ERP System, React.js — ongoing to present
+
+  Mar 2025         🛠️  Freelance Software Engineer · Indonesia (Hybrid)
+                       Multiple client projects · JavaScript, React, and more
+
+  Jun 2025         🏥  Programmer · RSUD M. Natsir Solok (Contract, On-site)
+                       SIMRS Core X · SIAP LAPOR · BANGSAMSIR · SIGAP
+                       ~900 employees · 30+ hospital units · mission-critical system
+
+  Apr 2026         🤖  AI Researcher · Solok Radjo (Part-time, Hybrid)
+                       Artificial Intelligence · Software Engineering · present
+```
+
+</div>
+
+<br/>
+
+<!-- ══════════════════════ EXPERIENCE ══════════════════════ -->
+
+## 💼 Work Experience
+
+<details>
+<summary><b>🤖 AI Researcher — Solok Radjo &nbsp;·&nbsp; Apr 2026–Present</b></summary>
+
+<br/>
+
+- Artificial Intelligence research & software engineering
+- Solok Regency, West Sumatra · Part-time · Hybrid
+
+</details>
+
+<details>
+<summary><b>🏥 Programmer — RSUD Mohammad Natsir &nbsp;·&nbsp; Jun 2025–Present</b></summary>
+
+<br/>
+
+Developing and maintaining mission-critical hospital systems supporting **~900 employees** across **30+ units** (outpatient, inpatient, ER, pharmacy, lab, radiology, HR, finance).
+
+| Project | Stack | Description |
+|---------|-------|-------------|
+| **SIMRS Core X** | Native PHP | Medical services & BPJS support — doctor schedule monitoring |
+| **SIAP LAPOR** | CodeIgniter (PHP) | Internal reporting system — full architecture & DB design |
+| **BANGSAMSIR** | Next.js · MySQL · React Native Expo | Digital waste bank platform — sole developer (UI/UX + full-stack) |
+| **SIGAP** | Laravel · Vue.js · Capacitor.js | HR & Performance Management — LKH, attendance, IKIN incentives |
+
+</details>
+
+<details>
+<summary><b>🏢 Full Stack Developer — Nur Group &nbsp;·&nbsp; Oct 2024–Present</b></summary>
+
+<br/>
+
+- Part-time · Hybrid · Kecamatan Linggo Sari Baganti, West Sumatra
+- ERP system development, React.js, enterprise solutions
+
+</details>
+
+<details>
+<summary><b>🛠️ Freelance Software Engineer &nbsp;·&nbsp; Mar 2025–Present</b></summary>
+
+<br/>
+
+- Multiple client projects across Indonesia · Hybrid
+- JavaScript, React.js, TypeScript, and full-stack solutions
+
+</details>
+
+<details>
+<summary><b>🏗️ Pengembang Web (Intern) — PT Semen Padang &nbsp;·&nbsp; Aug 2024–Jan 2025 · ⭐ Score 100/100</b></summary>
+
+<br/>
+
+- Checkpoint Reporting System — React.js + Express.js + MySQL + Tailwind CSS
+- GPS audit verification of expedition vehicles
+- SPJ document digitalization & database backup
+- **Final score: 100/100 (Excellent / Baik Sekali)**
+
+</details>
+
+<details>
+<summary><b>🚀 MSIB Batch 6 — Infinite Learning Indonesia &nbsp;·&nbsp; Jan–Jun 2024 · 🥇 Top 1 Best Product</b></summary>
+
+<br/>
+
+**Web Developer** (Apr–Jun 2024) · NicFit — Smoking Cessation Platform
+- Web + mobile app, modular architecture, mission-reward system, real-time consultation
+- **🥇 Top 1 Best Product (Web & Mobile)**
+- **🥉 3rd Place Developer Festival**
+
+**Project Manager** (Jan–Apr 2024) · Room Reservation System
+- Politeknik Enjinering Indorama · Centralized campus space management
+- User research, system architecture, UI/UX design
+
+</details>
+
+<details>
+<summary><b>🔬 Pengembang Web (Intern) — PT. Tazar Guna Mandiri &nbsp;·&nbsp; Mar–May 2024</b></summary>
+
+<br/>
+
+- Expert System: Corn Ear Rot Disease identification using **Certainty Factor** method
+- CodeIgniter + MySQL · Rule-based reasoning · Decision Support System
+- System analysis, database design, algorithm implementation
+
+</details>
+
+<details>
+<summary><b>💻 Full Stack Developer — Qwords Cloud Web Hosting &nbsp;·&nbsp; Dec 2023</b></summary>
+
+<br/>
+
+- Vue.js, React.js, CodeIgniter, Laravel · RESTful APIs · SQL databases
+- Remote project-based internship
+
+</details>
+
+<br/>
+
+<!-- ══════════════════════ PROJECTS ══════════════════════ -->
 
 ## 🚀 Featured Projects
+
+### 🏗️ Production & Client Work
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td width="50%" valign="top">
 
-**🏥 rsud-mnatsir**
+**♻️ BANGSAMSIR**
+*Bank Sampah M. Natsir — Digital Waste Bank*
 
-Sistem Informasi RSUD M. Natsir Solok — manajemen data RS terintegrasi, real-time monitoring, laporan medis
+Sole developer — UI/UX + Full Stack. Web platform for hospital waste bank management.
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Status](https://img.shields.io/badge/status-production-22c55e?style=flat-square)
-
-</td>
-<td align="center" width="33%">
-
-**🚨 SIGAP System**
-
-Sistem Pelaporan Darurat — mobile app + admin panel, checkpoint reporting real-time
-
-![Vue](https://img.shields.io/badge/-Vue%203-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![Status](https://img.shields.io/badge/status-active-22c55e?style=flat-square)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+`Production @ RSUD M. Natsir` · 🟢 Live
 
 </td>
-<td align="center" width="33%">
+<td width="50%" valign="top">
 
-**☕ Coffee Harvest AI**
+**📋 SIGAP**
+*Sistem Informasi Gerakan Aktivitas Pegawai*
 
-Prediksi kualitas panen kopi menggunakan Machine Learning & data sensor
+HR & Performance Management System for ~900 employees. LKH, attendance, IKIN incentives.
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Status](https://img.shields.io/badge/status-in%20progress-f59e0b?style=flat-square)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white)
+`Production @ RSUD M. Natsir` · 🟢 Live
 
 </td>
 </tr>
 <tr>
-<td align="center" width="33%">
+<td width="50%" valign="top">
 
-**👁 PPE Detection YOLOv8**
+**📊 SIAP LAPOR**
+*Internal Reporting System — RSUD*
 
-Deteksi APD real-time dengan Computer Vision — 2,600+ training images, 50 epochs
+Full architecture design, business logic, and database integration. Built end-to-end solo.
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-
-[→ View Repo](https://github.com/izanmaizan/PPE-Detection-YOLOv8)
-
-</td>
-<td align="center" width="33%">
-
-**🏥 SIMRS-CoreX**
-
-Sistem Informasi Manajemen Rumah Sakit berbasis web — digunakan di RS aktif
-
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-[→ View Repo](https://github.com/izanmaizan/SIMRS-CoreX)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+`Production @ RSUD M. Natsir` · 🟢 Live
 
 </td>
-<td align="center" width="33%">
+<td width="50%" valign="top">
 
-**💊 NicFit**
+**🚛 Checkpoint Reporting System**
+*PT Semen Padang — Transportation Monitoring*
 
-Platform berhenti merokok — web & mobile · **🥇 Top 1 Best Product MSIB Batch 6**
+Field reporting system for expedition vehicles. GPS audit, SPJ digitalization.
 
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+`Score: ⭐ 100/100` · ✅ Delivered
 
-[→ View Repo](https://github.com/izanmaizan/nicfit-massiveproject)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🌽 Expert System — Corn Disease**
+*PT. Tazar Guna Mandiri*
+
+Rule-based reasoning to identify corn ear rot diseases using Certainty Factor method.
+
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+`Research Project` · ✅ Delivered
+
+</td>
+<td width="50%" valign="top">
+
+**🏫 Room Reservation System**
+*Politeknik Enjinering Indorama*
+
+Centralized campus space booking — user research, system architecture, UI/UX design.
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+`PM & Design Project` · ✅ Delivered
 
 </td>
 </tr>
@@ -258,9 +380,7 @@ Platform berhenti merokok — web & mobile · **🥇 Top 1 Best Product MSIB Bat
 
 </div>
 
-<br/>
-
-<!-- ──────────────────────── REPO PINS ───────────────────────── -->
+### 💻 Open Source & Personal Projects
 
 <div align="center">
 
@@ -274,7 +394,67 @@ Platform berhenti merokok — web & mobile · **🥇 Top 1 Best Product MSIB Bat
 
 <br/>
 
-<!-- ─────────────────────── GITHUB STATS ─────────────────────── -->
+<!-- ══════════════════════ TECH STACK ══════════════════════ -->
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**⚡ Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+**⚙️ Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+**🤖 Machine Learning & AI**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+**📱 Mobile**
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white)
+
+**🗄️ Database**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+**🔧 Tools & Environment**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+</div>
+
+<br/>
+
+<!-- ══════════════════════ GITHUB STATS ══════════════════════ -->
 
 ## 📊 GitHub Stats
 
@@ -293,19 +473,19 @@ Platform berhenti merokok — web & mobile · **🥇 Top 1 Best Product MSIB Bat
 
 <br/>
 
-<!-- ───────────────────────── TROPHIES ───────────────────────── -->
+<!-- ══════════════════════ TROPHIES ══════════════════════ -->
 
-## 🏆 GitHub Trophies
+## 🏅 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=izanmaizan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=izanmaizan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%" />
 
 </div>
 
 <br/>
 
-<!-- ──────────────────────── ACTIVITY ────────────────────────── -->
+<!-- ══════════════════════ ACTIVITY ══════════════════════ -->
 
 ## 📈 Activity Graph
 
@@ -317,7 +497,7 @@ Platform berhenti merokok — web & mobile · **🥇 Top 1 Best Product MSIB Bat
 
 <br/>
 
-<!-- ───────────────────────── SUMMARY ────────────────────────── -->
+<!-- ══════════════════════ SUMMARY CARDS ══════════════════════ -->
 
 ## 📋 Profile Summary
 
@@ -337,89 +517,58 @@ Platform berhenti merokok — web & mobile · **🥇 Top 1 Best Product MSIB Bat
 
 <br/>
 
-<!-- ───────────────────────── SNAKE ──────────────────────────── -->
+<!-- ══════════════════════ SNAKE ══════════════════════ -->
 
 ## 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/izanmaizan/izanmaizan/output/snake-dark.svg" alt="snake animation" width="98%" />
+<img src="https://raw.githubusercontent.com/izanmaizan/izanmaizan/output/snake-dark.svg" alt="contribution snake" width="98%" />
 
 </div>
 
 <br/>
 
-<!-- ─────────────────────── EXPERIENCE ───────────────────────── -->
-
-## 💼 Experience
-
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│                         WORK HISTORY                                │
-├──────────┬──────────────────────────────────────────────────────────┤
-│ Present  │  🏥  Researcher Engineer & Programmer Instalasi SIMRS    │
-│          │      RSUD M. Natsir Solok · Solok, West Sumatra          │
-│          │      › Maintenance & dev SIMGOS SIMRS platform           │
-│          │      › System monitoring, troubleshooting, DB mgmt       │
-│          │      › MySQL, PostgreSQL, REST API, Linux                 │
-├──────────┼──────────────────────────────────────────────────────────┤
-│  2024    │  🚨  Web Developer & UI/UX Designer                      │
-│          │      › Developed SIGAP — Checkpoint Reporting System      │
-│          │      › Streamlined field reporting processes              │
-│          │      › Recognized by senior management                    │
-├──────────┼──────────────────────────────────────────────────────────┤
-│  2024    │  💻  Web Developer & Project Manager                     │
-│  MSIB 6  │      Infinite Learning (Kampus Merdeka Batch 6)          │
-│          │      › NicFit — smoking cessation web & mobile app       │
-│          │      › 🥇 Top 1 Best Product (Web & Mobile)              │
-│          │      › 🥉 3rd Place Developer Festival                    │
-└──────────┴──────────────────────────────────────────────────────────┘
-```
+<!-- ══════════════════════ EDUCATION ══════════════════════ -->
 
 ## 🎓 Education
 
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│  🏫  Universitas Putra Indonesia YPTK Padang                       │
-│      S1 Sistem Informasi                                            │
-│      GPA: 3.53 / 4.00                                              │
-└─────────────────────────────────────────────────────────────────────┘
-```
+<div align="center">
+
+| 🏫 Universitas Putra Indonesia YPTK Padang |
+|:---:|
+| S1 Sistem Informasi · **GPA: 3.53 / 4.00** |
+| Padang, West Sumatra, Indonesia |
+
+</div>
 
 <br/>
 
-<!-- ─────────────────────────── CONNECT ──────────────────────── -->
+<!-- ══════════════════════ CONNECT ══════════════════════ -->
 
 ## 🤝 Let's Connect
 
 <div align="center">
 
-| Platform | Link |
-|----------|------|
-| 💼 LinkedIn | [linkedin.com/in/izanmaizan](https://linkedin.com/in/izanmaizan) |
-| 🌐 Linktree | [linktr.ee/izanmaizan](https://linktr.ee/izanmaizan) |
-| 📧 Email | [izanmaizan@gmail.com](mailto:izanmaizan@gmail.com) |
-| 💻 GitHub | [github.com/izanmaizan](https://github.com/izanmaizan) |
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/izanmaizan)
+[![Gmail](https://img.shields.io/badge/Email-izanmaizan%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:izanmaizan@gmail.com)
+[![Linktree](https://img.shields.io/badge/Linktree-All_Links-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/izanmaizan)
 
-*Open for collaborations, freelance projects & interesting ideas!* 🚀
+<br/>
+
+*Open for collaborations · Freelance projects · Healthcare IT discussions* 🚀
 
 </div>
 
 <br/>
 
-<!-- ───────────────────────── FOOTER ─────────────────────────── -->
+<!-- ══════════════════════ FOOTER ══════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,30:4c1d95,60:312e81,85:1e1b4b,100:0d0221&height=140&section=footer&animation=fadeIn" width="100%" />
 
 <div align="center">
-
-```
-"The best code is the one that solves real problems for real people."
-                                              — izanmaizan
-```
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,40:2d1b69,70:1a0533,100:0d0221&height=140&section=footer&animation=fadeIn" width="100%" />
-
-<div align="center">
-  <sub>Built with ❤️ · Always start with <b>Bismillah</b> 🤲 · <i>izanmaizan</i></sub>
+  <sub>
+    Built with ❤️ &nbsp;·&nbsp; Always start with <b>Bismillah</b> 🤲 &nbsp;·&nbsp;
+    <a href="https://github.com/izanmaizan">@izanmaizan</a>
+  </sub>
 </div>
