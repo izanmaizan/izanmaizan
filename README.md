@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=220&text=Maizan%20Insani%20Akbar&fontSize=54&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=AI%20Researcher%20%C2%B7%20Full%20Stack%20Developer%20%C2%B7%20SIMRS%20Programmer&descAlignY=62&descColor=ffffff&descSize=17&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,30:0c1a3a,70:1565c0,100:0d47a1&height=220&text=Maizan%20Insani%20Akbar&fontSize=54&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=AI%20Researcher%20%C2%B7%20Full%20Stack%20Developer%20%C2%B7%20SIMRS%20Programmer&descAlignY=62&descColor=93c5fd&descSize=17&section=header" width="100%" />
 
 <div align="center">
 
@@ -8,14 +8,14 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&repeat=true&width=780&lines=AI+Researcher+%40+Solok+Radjo+%7C+Building+with+YOLOv11;SIMRS+Programmer+%40+RSUD+M.+Natsir+%7C+900%2B+Users;Full+Stack+%7C+TypeScript+%C2%B7+Vue+%C2%B7+React+%C2%B7+Laravel+%C2%B7+Python;Healthcare+IT+Systems+%7C+Hospital+Production+Grade;Computer+Vision+%7C+YOLOv11+%C2%B7+YOLOv8+%C2%B7+OpenCV;3%2B+Years+%7C+101%2B+Repos+%7C+Always+Building+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2600&pause=900&color=60A5FA&center=true&vCenter=true&repeat=true&width=780&lines=AI+Researcher+%40+Solok+Radjo+%7C+Building+with+YOLOv11;SIMRS+Programmer+%40+RSUD+M.+Natsir+%7C+900%2B+Users;Full+Stack+%7C+TypeScript+%C2%B7+Vue+%C2%B7+React+%C2%B7+Laravel+%C2%B7+Python;Healthcare+IT+Systems+%7C+Hospital+Production+Grade;Computer+Vision+%7C+YOLOv11+%C2%B7+YOLOv8+%C2%B7+OpenCV;3%2B+Years+%7C+101%2B+Repos+%7C+Always+Building+%F0%9F%9A%80" />
 
 <br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Maizan%20Insani%20Akbar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/izanmaizan)
 [![Linktree](https://img.shields.io/badge/Linktree-izanmaizan-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/izanmaizan)
 [![Gmail](https://img.shields.io/badge/Gmail-izanmaizan%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:izanmaizan@gmail.com)
-[![Views](https://komarev.com/ghpvc/?username=izanmaizan&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)](https://github.com/izanmaizan)
+[![Views](https://komarev.com/ghpvc/?username=izanmaizan&style=for-the-badge&color=1d4ed8&label=PROFILE+VIEWS)](https://github.com/izanmaizan)
 
 </div>
 
@@ -332,11 +332,11 @@ Python CLI to access public Indonesian CCTV cameras. Open-source utility.
 
 <div align="center">
 
-[![SIMRS-CoreX](https://github-readme-stats.vercel.app/api/pin/?username=izanmaizan&repo=SIMRS-CoreX&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9)](https://github.com/izanmaizan/SIMRS-CoreX)
-[![nicfit-massiveproject](https://github-readme-stats.vercel.app/api/pin/?username=izanmaizan&repo=nicfit-massiveproject&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9)](https://github.com/izanmaizan/nicfit-massiveproject)
+[![SIMRS-CoreX](https://github-readme-stats.vercel.app/api/pin/?username=izanmaizan&repo=SIMRS-CoreX&theme=tokyonight&hide_border=true&bg_color=020617&title_color=60a5fa&icon_color=38bdf8&text_color=e2e8f0)](https://github.com/izanmaizan/SIMRS-CoreX)
+[![nicfit-massiveproject](https://github-readme-stats.vercel.app/api/pin/?username=izanmaizan&repo=nicfit-massiveproject&theme=tokyonight&hide_border=true&bg_color=020617&title_color=60a5fa&icon_color=38bdf8&text_color=e2e8f0)](https://github.com/izanmaizan/nicfit-massiveproject)
 
-[![PPE-Detection-YOLOv8](https://github-readme-stats.vercel.app/api/pin/?username=izanmaizan&repo=PPE-Detection-YOLOv8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9)](https://github.com/izanmaizan/PPE-Detection-YOLOv8)
-[![bank-transaction-ml-analysis](https://github-readme-stats.vercel.app/api/pin/?username=izanmaizan&repo=bank-transaction-ml-analysis&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9)](https://github.com/izanmaizan/bank-transaction-ml-analysis)
+[![PPE-Detection-YOLOv8](https://github-readme-stats.vercel.app/api/pin/?username=izanmaizan&repo=PPE-Detection-YOLOv8&theme=tokyonight&hide_border=true&bg_color=020617&title_color=60a5fa&icon_color=38bdf8&text_color=e2e8f0)](https://github.com/izanmaizan/PPE-Detection-YOLOv8)
+[![bank-transaction-ml-analysis](https://github-readme-stats.vercel.app/api/pin/?username=izanmaizan&repo=bank-transaction-ml-analysis&theme=tokyonight&hide_border=true&bg_color=020617&title_color=60a5fa&icon_color=38bdf8&text_color=e2e8f0)](https://github.com/izanmaizan/bank-transaction-ml-analysis)
 
 </div>
 
@@ -354,16 +354,16 @@ Python CLI to access public Indonesian CCTV cameras. Open-source utility.
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=izanmaizan&theme=tokyonight" width="32%" />
-<img src="https://streak-stats.demolab.com?user=izanmaizan&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=7c3aed&fire=f472b6&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=8b949e&currStreakNum=e9d5ff" width="64%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=izanmaizan&theme=nord_bright" width="32%" />
+<img src="https://streak-stats.demolab.com?user=izanmaizan&theme=tokyonight&hide_border=true&background=020617&stroke=60a5fa&ring=1d4ed8&fire=38bdf8&currStreakLabel=60a5fa&sideLabels=93c5fd&dates=64748b&currStreakNum=bfdbfe" width="64%" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=izanmaizan&theme=tokyonight" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=izanmaizan&theme=tokyonight" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=izanmaizan&theme=tokyonight&utcOffset=7" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=izanmaizan&theme=nord_bright" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=izanmaizan&theme=nord_bright" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=izanmaizan&theme=nord_bright&utcOffset=7" width="32%" />
 
 </div>
 
@@ -373,7 +373,7 @@ Python CLI to access public Indonesian CCTV cameras. Open-source utility.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=izanmaizan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=izanmaizan&theme=nord&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%" />
 
 </div>
 
@@ -385,7 +385,7 @@ Python CLI to access public Indonesian CCTV cameras. Open-source utility.
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=izanmaizan&theme=tokyonight" width="98%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=izanmaizan&theme=nord_bright" width="98%" />
 
 </div>
 
@@ -395,7 +395,7 @@ Python CLI to access public Indonesian CCTV cameras. Open-source utility.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=izanmaizan&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=7c3aed&point=e9d5ff&area=true&area_color=4c1d95" width="98%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=izanmaizan&theme=github-compact&hide_border=true&bg_color=020617&color=60a5fa&line=1d4ed8&point=bfdbfe&area=true&area_color=1e3a8a" width="98%" />
 
 </div>
 
@@ -450,7 +450,7 @@ Python CLI to access public Indonesian CCTV cameras. Open-source utility.
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=140&section=footer&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d47a1,50:1565c0,100:020617&height=140&section=footer&animation=twinkling" width="100%" />
 
 <div align="center">
   <sub>Built with ❤️ &nbsp;·&nbsp; Always start with <b>Bismillah</b> 🤲 &nbsp;·&nbsp; <a href="https://github.com/izanmaizan">@izanmaizan</a></sub>
