@@ -462,15 +462,22 @@ Centralized campus space booking — user research, system architecture, UI/UX d
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=izanmaizan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&ring_color=7c3aed&cache_seconds=21600" width="49%" />
-<img src="https://streak-stats.demolab.com?user=izanmaizan&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=7c3aed&fire=f472b6&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=8b949e&currStreakNum=e9d5ff" width="49%" />
+<sub>📌 <i>Stats reflect public repositories only</i></sub>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izanmaizan&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=10&cache_seconds=21600" width="38%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izanmaizan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=10&cache_seconds=21600" width="55%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=izanmaizan&theme=tokyonight" width="32%" />
+<img src="https://streak-stats.demolab.com?user=izanmaizan&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=7c3aed&fire=f472b6&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=8b949e&currStreakNum=e9d5ff" width="64%" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=izanmaizan&theme=tokyonight" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=izanmaizan&theme=tokyonight" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=izanmaizan&theme=tokyonight&utcOffset=7" width="32%" />
 
 </div>
 
@@ -488,22 +495,70 @@ Centralized campus space booking — user research, system architecture, UI/UX d
 
 <br/>
 
-<!-- ══════════════════════ CONTRIBUTION BY YEAR ══════════════════════ -->
+<!-- ══════════════════════ CONTRIBUTIONS BY YEAR ══════════════════════ -->
 
-## 📅 Contributions by Year
+## 🐍 Contributions — Year by Year
+
+<div align="center">
+<sub>🤖 <i>Snake animations auto-generated via GitHub Actions · 2026 updates every 24 hours</i></sub>
+</div>
+
+<br/>
+
+<details open>
+<summary><b>&nbsp;🔴 2026 &nbsp;·&nbsp; LIVE &nbsp;·&nbsp; Updates Every Day Automatically</b></summary>
+<br/>
+<div align="center">
+<img src="https://raw.githubusercontent.com/izanmaizan/izanmaizan/output/snake-dark.svg" width="98%" alt="2026 live contributions" />
+</div>
+<br/>
+</details>
+
+<details>
+<summary><b>&nbsp;2025 &nbsp;·&nbsp; Laravel · Vue · TypeScript · Python ML</b></summary>
+<br/>
+<div align="center">
+<img src="https://raw.githubusercontent.com/izanmaizan/izanmaizan/output/snake-2025.svg" width="98%" alt="2025 contributions" />
+</div>
+<br/>
+</details>
+
+<details>
+<summary><b>&nbsp;2024 &nbsp;·&nbsp; MSIB Batch 6 · PT Semen Padang · NicFit 🥇</b></summary>
+<br/>
+<div align="center">
+<img src="https://raw.githubusercontent.com/izanmaizan/izanmaizan/output/snake-2024.svg" width="98%" alt="2024 contributions" />
+</div>
+<br/>
+</details>
+
+<details>
+<summary><b>&nbsp;2023 &nbsp;·&nbsp; PHP CRUD · React Fundamentals · REST API</b></summary>
+<br/>
+<div align="center">
+<img src="https://raw.githubusercontent.com/izanmaizan/izanmaizan/output/snake-2023.svg" width="98%" alt="2023 contributions" />
+</div>
+<br/>
+</details>
+
+<details>
+<summary><b>&nbsp;2022 &nbsp;·&nbsp; The Beginning · First Commit · Aug 2022</b></summary>
+<br/>
+<div align="center">
+<img src="https://raw.githubusercontent.com/izanmaizan/izanmaizan/output/snake-2022.svg" width="98%" alt="2022 contributions" />
+</div>
+<br/>
+</details>
+
+<br/>
+
+<!-- ══════════════════════ FULL HISTORY OVERVIEW ══════════════════════ -->
+
+## 📅 Full Contribution History (2022 → 2026)
 
 <div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=izanmaizan&theme=tokyonight" width="98%" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=izanmaizan&theme=tokyonight" width="24%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=izanmaizan&theme=tokyonight" width="24%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=izanmaizan&theme=tokyonight" width="24%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=izanmaizan&theme=tokyonight&utcOffset=7" width="24%" />
 
 </div>
 
@@ -516,18 +571,6 @@ Centralized campus space booking — user research, system architecture, UI/UX d
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=izanmaizan&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=7c3aed&point=e9d5ff&area=true&area_color=4c1d95" width="98%" />
-
-</div>
-
-<br/>
-
-<!-- ══════════════════════ SNAKE ══════════════════════ -->
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/izanmaizan/izanmaizan/output/snake-dark.svg" alt="contribution snake" width="98%" />
 
 </div>
 

@@ -13,17 +13,20 @@ jobs:
     permissions:
       contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 15
     steps:
-      - name: Generate snake SVG
+      - name: Generate snake SVG — all years
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/snake.svg
+            dist/snake-2022.svg?from_date=2022-08-18&to_date=2022-12-31&palette=github-dark
+            dist/snake-2023.svg?from_date=2023-01-01&to_date=2023-12-31&palette=github-dark
+            dist/snake-2024.svg?from_date=2024-01-01&to_date=2024-12-31&palette=github-dark
+            dist/snake-2025.svg?from_date=2025-01-01&to_date=2025-12-31&palette=github-dark
             dist/snake-dark.svg?palette=github-dark
 
-      - name: Push snake to output branch
+      - name: Push all snakes to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
