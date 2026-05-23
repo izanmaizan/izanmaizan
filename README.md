@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,30:0c1a3a,70:1565c0,100:0d47a1&height=220&text=Maizan%20Insani%20Akbar&fontSize=54&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=AI%20Researcher%20%C2%B7%20Full%20Stack%20Developer%20%C2%B7%20SIMRS%20Programmer&descAlignY=62&descColor=93c5fd&descSize=17&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:020617,50:0a1628,100:1e40af&height=240&text=Maizan%20Insani%20Akbar&fontSize=56&fontColor=00d4ff&animation=fadeIn&fontAlignY=42&desc=AI%20Researcher%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20SIMRS%20Programmer&descAlignY=63&descColor=7dd3fc&descSize=17&section=header" width="100%" />
 
 <div align="center">
 
@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2600&pause=900&color=60A5FA&center=true&vCenter=true&repeat=true&width=780&lines=AI+Researcher+%40+Solok+Radjo+%7C+Building+with+YOLOv11;SIMRS+Programmer+%40+RSUD+M.+Natsir+%7C+900%2B+Users;Full+Stack+%7C+TypeScript+%C2%B7+Vue+%C2%B7+React+%C2%B7+Laravel+%C2%B7+Python;Healthcare+IT+Systems+%7C+Hospital+Production+Grade;Computer+Vision+%7C+YOLOv11+%C2%B7+YOLOv8+%C2%B7+OpenCV;3%2B+Years+%7C+101%2B+Repos+%7C+Always+Building+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2600&pause=900&color=00D4FF&center=true&vCenter=true&repeat=true&width=780&lines=AI+Researcher+%40+Solok+Radjo+%7C+Building+with+YOLOv11;SIMRS+Programmer+%40+RSUD+M.+Natsir+%7C+900%2B+Users;Full+Stack+%7C+TypeScript+%C2%B7+Vue+%C2%B7+React+%C2%B7+Laravel+%C2%B7+Python;Healthcare+IT+Systems+%7C+Hospital+Production+Grade;Computer+Vision+%7C+YOLOv11+%C2%B7+YOLOv8+%C2%B7+OpenCV;3%2B+Years+%7C+110%2B+Repos+%7C+Always+Building+%F0%9F%9A%80" />
 
 <br/><br/>
 
@@ -88,12 +88,12 @@ const maizan = {
 
 | | Domain | Technologies | Level |
 |:---:|:---|:---|:---:|
-| ⚡ | **Frontend** | TypeScript · JavaScript · React · Next.js · Vue 3 · TailwindCSS | `Expert` |
-| ⚙️ | **Backend** | PHP · Laravel · CodeIgniter · Node.js · Express · FastAPI · Django | `Advanced` |
-| 📱 | **Mobile** | React Native · Expo · Capacitor.js · Vue Mobile | `Proficient` |
-| 🤖 | **AI / Computer Vision** | Python · YOLOv11 · YOLOv8 · TensorFlow · PyTorch · OpenCV | `Proficient` |
-| 🗄️ | **Database** | MySQL · PostgreSQL · SQLite · REST API Design | `Advanced` |
-| 🖥️ | **Environment** | Arch Linux · macOS · Git · Docker · Postman · Figma | `Expert` |
+| ⚡ | **Frontend** | TypeScript · JavaScript · React · Next.js · Vue 3 · TailwindCSS | ![](https://img.shields.io/badge/Expert-00d4ff?style=flat-square&logoColor=white) |
+| ⚙️ | **Backend** | PHP · Laravel · CodeIgniter · Node.js · Express · FastAPI · Django | ![](https://img.shields.io/badge/Advanced-0ea5e9?style=flat-square&logoColor=white) |
+| 📱 | **Mobile** | React Native · Expo · Capacitor.js · Vue Mobile | ![](https://img.shields.io/badge/Proficient-1d4ed8?style=flat-square&logoColor=white) |
+| 🤖 | **AI / CV** | Python · YOLOv11 · YOLOv8 · TensorFlow · PyTorch · OpenCV | ![](https://img.shields.io/badge/Proficient-1d4ed8?style=flat-square&logoColor=white) |
+| 🗄️ | **Database** | MySQL · PostgreSQL · SQLite · REST API Design | ![](https://img.shields.io/badge/Advanced-0ea5e9?style=flat-square&logoColor=white) |
+| 🖥️ | **Environment** | Arch Linux · macOS · Git · Docker · Postman · Figma | ![](https://img.shields.io/badge/Expert-00d4ff?style=flat-square&logoColor=white) |
 
 </div>
 
@@ -228,11 +228,16 @@ Developing & maintaining mission-critical systems for **~900 employees** across 
 
 Full platform: **web admin** · **nasabah app** · **sherlock analytics**. Sole developer — UI/UX + full stack.
 
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs)
+<br/>
+
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-`3 repos · Production 🟢`
+
+<br/>
+
+![](https://img.shields.io/badge/3_repos-Production%20🟢-00d4ff?style=flat-square&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
@@ -242,10 +247,15 @@ Full platform: **web admin** · **nasabah app** · **sherlock analytics**. Sole 
 
 HR & Performance Management for **~900 employees** — LKH, attendance, IKIN performance incentives.
 
+<br/>
+
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 ![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white)
-`3 repos · Production 🟢`
+
+<br/>
+
+![](https://img.shields.io/badge/3_repos-Production%20🟢-00d4ff?style=flat-square&logoColor=white)
 
 </td>
 </tr>
@@ -257,9 +267,14 @@ HR & Performance Management for **~900 employees** — LKH, attendance, IKIN per
 
 Built full architecture, business logic & DB integration solo. End-to-end.
 
+<br/>
+
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-`Production 🟢`
+
+<br/>
+
+![](https://img.shields.io/badge/solo_build-Production%20🟢-00d4ff?style=flat-square&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
@@ -269,9 +284,14 @@ Built full architecture, business logic & DB integration solo. End-to-end.
 
 Government performance accountability system for RSUD — compliance & reporting.
 
+<br/>
+
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-`Production 🟢`
+
+<br/>
+
+![](https://img.shields.io/badge/govt._system-Production%20🟢-00d4ff?style=flat-square&logoColor=white)
 
 </td>
 </tr>
@@ -292,8 +312,12 @@ Government performance accountability system for RSUD — compliance & reporting
 
 Latest-gen computer vision. Disease & quality detection on chili plants.
 
+<br/>
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![YOLOv11](https://img.shields.io/badge/YOLOv11-FF6F00?style=flat-square&logo=YOLO&logoColor=white)
+![YOLOv11](https://img.shields.io/badge/YOLOv11-FF6F00?style=flat-square&logoColor=white)
+
+<br/>
 
 [→ View Repo](https://github.com/izanmaizan/yolov11-cabai)
 
@@ -305,8 +329,12 @@ Latest-gen computer vision. Disease & quality detection on chili plants.
 
 Real-time PPE detection · 2,600+ training images · 50 epochs trained.
 
+<br/>
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+<br/>
 
 [→ View Repo](https://github.com/izanmaizan/PPE-Detection-YOLOv8)
 
@@ -318,7 +346,11 @@ Real-time PPE detection · 2,600+ training images · 50 epochs trained.
 
 Python CLI to access public Indonesian CCTV cameras. Open-source utility.
 
+<br/>
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+<br/>
 
 [→ View Repo](https://github.com/izanmaizan/cctv-indonesia-cli)
 
@@ -332,11 +364,11 @@ Python CLI to access public Indonesian CCTV cameras. Open-source utility.
 
 <div align="center">
 
-[![SIMRS-CoreX](https://github-readme-stats.vercel.app/api/pin/?username=izanmaizan&repo=SIMRS-CoreX&theme=tokyonight&hide_border=true&bg_color=020617&title_color=60a5fa&icon_color=38bdf8&text_color=e2e8f0)](https://github.com/izanmaizan/SIMRS-CoreX)
-[![nicfit-massiveproject](https://github-readme-stats.vercel.app/api/pin/?username=izanmaizan&repo=nicfit-massiveproject&theme=tokyonight&hide_border=true&bg_color=020617&title_color=60a5fa&icon_color=38bdf8&text_color=e2e8f0)](https://github.com/izanmaizan/nicfit-massiveproject)
+[![SIMRS-CoreX](https://github-readme-stats.vercel.app/api/pin/?username=izanmaizan&repo=SIMRS-CoreX&theme=github_dark&hide_border=true&bg_color=0a1628&title_color=00d4ff&icon_color=38bdf8&text_color=e2e8f0)](https://github.com/izanmaizan/SIMRS-CoreX)
+[![nicfit-massiveproject](https://github-readme-stats.vercel.app/api/pin/?username=izanmaizan&repo=nicfit-massiveproject&theme=github_dark&hide_border=true&bg_color=0a1628&title_color=00d4ff&icon_color=38bdf8&text_color=e2e8f0)](https://github.com/izanmaizan/nicfit-massiveproject)
 
-[![PPE-Detection-YOLOv8](https://github-readme-stats.vercel.app/api/pin/?username=izanmaizan&repo=PPE-Detection-YOLOv8&theme=tokyonight&hide_border=true&bg_color=020617&title_color=60a5fa&icon_color=38bdf8&text_color=e2e8f0)](https://github.com/izanmaizan/PPE-Detection-YOLOv8)
-[![bank-transaction-ml-analysis](https://github-readme-stats.vercel.app/api/pin/?username=izanmaizan&repo=bank-transaction-ml-analysis&theme=tokyonight&hide_border=true&bg_color=020617&title_color=60a5fa&icon_color=38bdf8&text_color=e2e8f0)](https://github.com/izanmaizan/bank-transaction-ml-analysis)
+[![PPE-Detection-YOLOv8](https://github-readme-stats.vercel.app/api/pin/?username=izanmaizan&repo=PPE-Detection-YOLOv8&theme=github_dark&hide_border=true&bg_color=0a1628&title_color=00d4ff&icon_color=38bdf8&text_color=e2e8f0)](https://github.com/izanmaizan/PPE-Detection-YOLOv8)
+[![bank-transaction-ml-analysis](https://github-readme-stats.vercel.app/api/pin/?username=izanmaizan&repo=bank-transaction-ml-analysis&theme=github_dark&hide_border=true&bg_color=0a1628&title_color=00d4ff&icon_color=38bdf8&text_color=e2e8f0)](https://github.com/izanmaizan/bank-transaction-ml-analysis)
 
 </div>
 
@@ -354,16 +386,16 @@ Python CLI to access public Indonesian CCTV cameras. Open-source utility.
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=izanmaizan&theme=nord_bright" width="32%" />
-<img src="https://streak-stats.demolab.com?user=izanmaizan&theme=tokyonight&hide_border=true&background=020617&stroke=60a5fa&ring=1d4ed8&fire=38bdf8&currStreakLabel=60a5fa&sideLabels=93c5fd&dates=64748b&currStreakNum=bfdbfe" width="64%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=izanmaizan&theme=2077" width="32%" />
+<img src="https://streak-stats.demolab.com?user=izanmaizan&theme=dark&hide_border=true&background=020617&stroke=00d4ff&ring=1d4ed8&fire=38bdf8&currStreakLabel=00d4ff&sideLabels=7dd3fc&dates=64748b&currStreakNum=7dd3fc" width="64%" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=izanmaizan&theme=nord_bright" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=izanmaizan&theme=nord_bright" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=izanmaizan&theme=nord_bright&utcOffset=7" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=izanmaizan&theme=2077" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=izanmaizan&theme=2077" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=izanmaizan&theme=2077&utcOffset=7" width="32%" />
 
 </div>
 
@@ -373,7 +405,7 @@ Python CLI to access public Indonesian CCTV cameras. Open-source utility.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=izanmaizan&theme=nord&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=izanmaizan&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%" />
 
 </div>
 
@@ -381,21 +413,23 @@ Python CLI to access public Indonesian CCTV cameras. Open-source utility.
 
 ---
 
-## 📅 Contribution History · 2022 → 2026
+## 📅 Contribution History · 2022 → 2025
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=izanmaizan&theme=nord_bright" width="98%" />
+<sub>📌 <i>Full contribution timeline since August 2022 — public commits across all years</i></sub>
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=izanmaizan&theme=2077" width="98%" />
 
 </div>
 
 <br/>
 
-## 📈 Activity Graph
-
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=izanmaizan&theme=github-compact&hide_border=true&bg_color=020617&color=60a5fa&line=1d4ed8&point=bfdbfe&area=true&area_color=1e3a8a" width="98%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=izanmaizan&theme=github-compact&hide_border=true&bg_color=020617&color=00d4ff&line=1d4ed8&point=7dd3fc&area=true&area_color=1e3a8a" width="98%" />
 
 </div>
 
@@ -403,11 +437,11 @@ Python CLI to access public Indonesian CCTV cameras. Open-source utility.
 
 ---
 
-## 🐍 2026 · Contribution Snake · 🔴 Live
+## 🐍 2026 · Live Contribution Snake
 
 <div align="center">
 
-<sub>🤖 <i>Auto-regenerated every 24 hours via GitHub Actions · Shows 2026 contribution activity</i></sub>
+<sub>🤖 <i>Auto-regenerated every 24 hours via GitHub Actions · 2026 real-time contribution activity</i></sub>
 
 <br/><br/>
 
@@ -450,7 +484,7 @@ Python CLI to access public Indonesian CCTV cameras. Open-source utility.
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d47a1,50:1565c0,100:020617&height=140&section=footer&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:1e40af,50:0a1628,100:020617&height=160&section=footer&animation=fadeIn" width="100%" />
 
 <div align="center">
   <sub>Built with ❤️ &nbsp;·&nbsp; Always start with <b>Bismillah</b> 🤲 &nbsp;·&nbsp; <a href="https://github.com/izanmaizan">@izanmaizan</a></sub>
