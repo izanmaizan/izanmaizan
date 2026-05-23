@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,30:061020,65:0d2b5f,100:1e40af&height=210&text=Maizan%20Insani%20Akbar&fontSize=54&fontColor=00d4ff&animation=twinkling&fontAlignY=40&desc=AI%20Researcher%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20SIMRS%20Programmer%20%E2%80%A2%20S2%20MTI&descAlignY=62&descColor=7dd3fc&descSize=16&section=header" width="100%" /><img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e40af,40:0d2b5f,80:061020,100:020617&height=80&section=header&reversal=true" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,40:1e3a8a,100:2563eb&height=220&text=Maizan%20Insani%20Akbar&fontSize=52&fontColor=e2e8f0&animation=fadeIn&fontAlignY=40&desc=AI%20Researcher%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20SIMRS%20Programmer&descAlignY=62&descColor=93c5fd&descSize=16&section=header" width="100%" />
 
 <div align="center">
 
@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2600&pause=900&color=00D4FF&center=true&vCenter=true&repeat=true&width=800&lines=S2+Magister+Teknik+Informatika+%7C+UPI+YPTK+Padang;Thesis%3A+Hybrid+YOLOv11%E2%80%93XGBoost+%7C+Coffee+Harvest+AI;AI+Researcher+%40+Solok+Radjo+%7C+YOLOv11+%2B+XGBoost;SIMRS+Programmer+%40+RSUD+M.+Natsir+%7C+900%2B+Users;Full+Stack+%7C+TypeScript+%C2%B7+Vue+%C2%B7+React+%C2%B7+Laravel;3%2B+Years+%7C+110%2B+Repos+%7C+Always+Building+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2600&pause=900&color=00D4FF&center=true&vCenter=true&repeat=true&width=800&lines=AI+Researcher+%40+Solok+Radjo+%7C+Computer+Vision;SIMRS+Programmer+%40+RSUD+M.+Natsir+%7C+900%2B+Users;Full+Stack+%7C+TypeScript+%C2%B7+Vue+%C2%B7+React+%C2%B7+Laravel;3%2B+Years+%7C+110%2B+Repos+%7C+Always+Building+%F0%9F%9A%80" />
 
 <br/><br/>
 
@@ -52,15 +52,8 @@ const maizan = {
   location    : "Solok, West Sumatra 🇮🇩",
   education   : [
     "S1 Sistem Informasi  — UPI YPTK Padang  · GPA 3.53  ✅",
-    "S2 Magister Teknik Informatika — UPI YPTK Padang · 2024–now 🔬",
+    "S2 Magister Teknik Informatika — UPI YPTK Padang 🔬",
   ],
-  thesis      : {
-    title    : "Hybrid YOLOv11–XGBoost Berbasis Citra",
-    focus    : "Pemodelan Distribusi Kematangan Buah & Prediksi Waktu Panen Kopi Arabika",
-    location : "BRMP Sumatera Barat · Solok Radjo Academy · Petani Lokal Kabupaten Solok",
-    tech     : "YOLOv11 · XGBoost · Computer Vision · Precision Agriculture",
-    repo     : "github.com/izanmaizan/coffee-harvest-ai",
-  },
   roles       : [
     "S2 Researcher  @ Solok Radjo / BRMP Sumbar  (Apr 2026–present)  🎓",
     "SIMRS Programmer  @ RSUD M. Natsir          (Jun 2025–present)  🏥",
@@ -120,8 +113,8 @@ const maizan = {
 | 🏢 | **Oct 2024 → now** | Nur Group · Part-time | Full Stack Dev · ERP Systems · React.js |
 | 🛠️ | **Mar 2025 → now** | Freelance Software Engineer | Multi-client · JS, React, TypeScript |
 | 🏥 | **Jun 2025 → now** | RSUD M. Natsir · Contract | SIMRS · **~900 users** · BANGSAMSIR · SIGAP · SAKIP |
-| 📖 | **Aug 2024 → now** | UPI YPTK Padang | **S2 Magister Teknik Informatika** · Research: AI & Precision Agriculture |
-| 🤖 | **Apr 2026 → now** | Solok Radjo · BRMP Sumbar | **Tesis S2** · YOLOv11–XGBoost · Coffee Harvest AI |
+| 📖 | — | UPI YPTK Padang | **S2 Magister Teknik Informatika** · AI & Precision Agriculture |
+| 🤖 | **Apr 2026 → now** | Solok Radjo · BRMP Sumbar | AI Researcher · Computer Vision · Coffee Harvest Prediction |
 
 </div>
 
@@ -132,12 +125,12 @@ const maizan = {
 ## 💼 Work Experience
 
 <details open>
-<summary><b>&nbsp;🤖 AI Researcher (S2 Thesis) — Solok Radjo · BRMP Sumatera Barat &nbsp;·&nbsp; Apr 2026–Present</b></summary>
+<summary><b>&nbsp;🤖 AI Researcher — Solok Radjo · BRMP Sumatera Barat &nbsp;·&nbsp; Apr 2026–Present</b></summary>
 <br/>
 
-- Riset AI untuk Tesis S2 MTI: **Hybrid YOLOv11–XGBoost** pemodelan distribusi kematangan buah kopi Arabika
-- Dataset dari BRMP Sumatera Barat (Arosuka), Solok Radjo Academy, petani lokal Kabupaten Solok
-- YOLOv11 detection 4 kelas (_green, yellow, red, overripe_) + XGBoost prediksi hari panen optimal
+- AI Research: **Computer Vision** untuk prediksi panen kopi Arabika di Kabupaten Solok
+- Dataset lapangan dari BRMP Sumatera Barat (Arosuka), Solok Radjo Academy, petani lokal
+- Object detection 4 kelas kematangan (_green, yellow, red, overripe_) + harvest timing prediction
 - Solok Regency, West Sumatra · Part-time · Hybrid
 
 </details>
@@ -228,11 +221,11 @@ Developing & maintaining mission-critical systems for **~900 employees** across 
 <tr>
 <td width="100%" valign="top">
 
-**☕ coffee-harvest-ai** — *Tesis S2 MTI*
+**☕ coffee-harvest-ai** — *S2 Research Project*
 
-**HYBRID YOLOV11–XGBOOST BERBASIS CITRA** untuk Pemodelan Distribusi Kematangan Buah dan Prediksi Waktu Panen Optimal pada **Kopi Arabika** Kabupaten Solok.
+AI system for **Arabica coffee harvest prediction** using Computer Vision and Machine Learning. Detects 4 ripeness classes (_green · yellow · red · overripe_) in real-time and predicts optimal harvest timing from visual + agronomic + weather data.
 
-Sistem deteksi 4 kelas kematangan (_green · yellow · red · overripe_) real-time dengan YOLOv11, diintegrasikan dengan XGBoost yang menerima fitur visual + agronomis + data cuaca API untuk prediksi hari menuju panen optimal. Validasi di **BRMP Sumatera Barat · Solok Radjo Academy · Petani Lokal Solok**.
+Research at **BRMP Sumatera Barat · Solok Radjo Academy · Petani Lokal Kabupaten Solok**.
 
 <br/>
 
@@ -447,58 +440,10 @@ Python CLI to access public Indonesian CCTV cameras. Open-source utility.
 
 ---
 
-## 📅 Contribution History · 2022 → 2025
+## 📊 GitHub Activity
 
 <div align="center">
-<sub>📌 <i>Contribution calendar per year — public commits since August 2022</i></sub>
-</div>
-
-<br/>
-
-<div align="center">
-
-**`2022`** &nbsp;—&nbsp; HTML · CSS · PHP · First GitHub Commits
-
-![](https://ghchart.rshah.org/1e40af/izanmaizan)
-
-<sub>🌱 Aug 2022: Joined GitHub · HTML/CSS basics · PHP CRUD · 50+ repos by year-end</sub>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-**`2023`** &nbsp;—&nbsp; React · Node.js · REST API · Building Sprint
-
-![](https://ghchart.rshah.org/1d4ed8/izanmaizan)
-
-<sub>⚡ PHP CRUD mastery · React fundamentals · REST APIs · Full Stack sprint begins</sub>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-**`2024`** &nbsp;—&nbsp; Full Stack · TypeScript · NicFit 🥇 · PT Semen Padang ⭐
-
-![](https://ghchart.rshah.org/0ea5e9/izanmaizan)
-
-<sub>🚀 Next.js · TypeScript · MSIB Top 1 Best Product · PT Semen Padang Score 100/100</sub>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-**`2025`** &nbsp;—&nbsp; SIMRS Production · Vue · Laravel · S2 MTI Begins
-
-![](https://ghchart.rshah.org/38bdf8/izanmaizan)
-
-<sub>🏥 RSUD M. Natsir (900 users) · BANGSAMSIR · SIGAP · S2 Magister Teknik Informatika dimulai</sub>
-
+<sub>📌 <i>Public repos · 3+ years · 110+ repositories since August 2022 · Private: BANGSAMSIR, SIGAP, rsud-mnatsir</i></sub>
 </div>
 
 <br/>
@@ -514,6 +459,20 @@ Python CLI to access public Indonesian CCTV cameras. Open-source utility.
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=izanmaizan&theme=github-compact&hide_border=true&bg_color=020617&color=00d4ff&line=1d4ed8&point=7dd3fc&area=true&area_color=1e3a8a" width="98%" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+| Year | Highlight | Stack |
+|:---:|:---|:---|
+| **`2022`** | 🌱 Joined GitHub Aug 2022 · 20+ repos by year-end | HTML · CSS · PHP · JavaScript |
+| **`2023`** | ⚡ Full Stack sprint · REST API mastery | React · Node.js · PHP |
+| **`2024`** | 🚀 MSIB 🥇 Top 1 · PT Semen Padang ⭐ 100/100 | TypeScript · Next.js · Vue |
+| **`2025`** | 🏥 SIMRS ~900 users · BANGSAMSIR · SIGAP live | Laravel · Vue 3 · TypeScript |
+| **`2026`** | 🤖 AI Research · SIMRS expansion ongoing | Python · TypeScript · YOLOv11 |
 
 </div>
 
@@ -543,8 +502,7 @@ Python CLI to access public Indonesian CCTV cameras. Open-source utility.
 
 | 🏫 Universitas Putra Indonesia YPTK Padang |
 |:---:|
-| **S2 Magister Teknik Informatika · 2024 – present** |
-| Thesis: Hybrid YOLOv11–XGBoost · Kopi Arabika · Precision Agriculture |
+| **S2 Magister Teknik Informatika** 🔬 |
 | **S1 Sistem Informasi · GPA: 3.53 / 4.00** ✅ |
 | Padang, West Sumatra, Indonesia |
 
@@ -570,7 +528,7 @@ Python CLI to access public Indonesian CCTV cameras. Open-source utility.
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e40af,40:0d2b5f,80:061020,100:020617&height=80&section=footer&animation=twinkling" width="100%" /><img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:061020,100:1e40af&height=60&section=footer&reversal=true" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:1e3a8a,100:0f172a&height=110&section=footer&animation=fadeIn" width="100%" />
 
 <div align="center">
   <sub>Built with ❤️ &nbsp;·&nbsp; Always start with <b>Bismillah</b> 🤲 &nbsp;·&nbsp; <a href="https://github.com/izanmaizan">@izanmaizan</a></sub>
