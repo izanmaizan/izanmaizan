@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,40:1e3a8a,100:2563eb&height=220&text=Maizan%20Insani%20Akbar&fontSize=52&fontColor=e2e8f0&animation=fadeIn&fontAlignY=40&desc=AI%20Researcher%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20SIMRS%20Programmer&descAlignY=62&descColor=93c5fd&descSize=16&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,40:1e3a8a,100:2563eb&height=220&text=Maizan%20Insani%20Akbar&fontSize=52&fontColor=e2e8f0&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20%E2%80%A2%20Software%20Engineer%20%E2%80%A2%20SIMRS%20Programmer&descAlignY=62&descColor=93c5fd&descSize=16&section=header" width="100%" />
 
 <div align="center">
 
@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2600&pause=900&color=00D4FF&center=true&vCenter=true&repeat=true&width=800&lines=AI+Researcher+%40+Solok+Radjo+%7C+Computer+Vision;SIMRS+Programmer+%40+RSUD+M.+Natsir+%7C+900%2B+Users;Full+Stack+%7C+TypeScript+%C2%B7+Vue+%C2%B7+React+%C2%B7+Laravel;3%2B+Years+%7C+110%2B+Repos+%7C+Always+Building+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2600&pause=900&color=00D4FF&center=true&vCenter=true&repeat=true&width=800&lines=Full+Stack+Developer+%7C+TypeScript+%C2%B7+React+%C2%B7+Vue+%C2%B7+Laravel;SIMRS+Programmer+%40+RSUD+M.+Natsir+%7C+900%2B+Users;Computer+Vision+Research+%40+S2+%7C+YOLOv11+%C2%B7+XGBoost;3%2B+Years+%7C+110%2B+Repos+%7C+Always+Building+%F0%9F%9A%80" />
 
 <br/><br/>
 
@@ -55,10 +55,10 @@ const maizan = {
     "S2 Magister Teknik Informatika — UPI YPTK Padang 🔬",
   ],
   roles       : [
-    "S2 Researcher  @ Solok Radjo / BRMP Sumbar  (Apr 2026–present)  🎓",
     "SIMRS Programmer  @ RSUD M. Natsir          (Jun 2025–present)  🏥",
     "Full Stack Dev    @ Nur Group               (Oct 2024–present)  💻",
     "Freelance Engineer                          (Mar 2025–present)  🛠️",
+    "S2 Researcher  @ Solok Radjo / BRMP Sumbar  (Apr 2026–present)  🎓",
   ],
   os          : ["Arch Linux 🐧  (btw)", "macOS 🍎"],
   motto       : "start with bismillah 🤲",
@@ -125,17 +125,6 @@ const maizan = {
 ## 💼 Work Experience
 
 <details open>
-<summary><b>&nbsp;🤖 AI Researcher — Solok Radjo · BRMP Sumatera Barat &nbsp;·&nbsp; Apr 2026–Present</b></summary>
-<br/>
-
-- AI Research: **Computer Vision** untuk prediksi panen kopi Arabika di Kabupaten Solok
-- Dataset lapangan dari BRMP Sumatera Barat (Arosuka), Solok Radjo Academy, petani lokal
-- Object detection 4 kelas kematangan (_green, yellow, red, overripe_) + harvest timing prediction
-- Solok Regency, West Sumatra · Part-time · Hybrid
-
-</details>
-
-<details open>
 <summary><b>&nbsp;🏥 Programmer — RSUD Mohammad Natsir &nbsp;·&nbsp; Jun 2025–Present</b></summary>
 <br/>
 
@@ -151,11 +140,13 @@ Developing & maintaining mission-critical systems for **~900 employees** across 
 
 </details>
 
-<details>
+<details open>
 <summary><b>&nbsp;🏢 Full Stack Developer — Nur Group &nbsp;·&nbsp; Oct 2024–Present</b></summary>
 <br/>
 
-- ERP system development · React.js · Part-time · Hybrid
+- Integrated **ERP for 3 business units** (NurCake · NurMakeUp Art · NurBouquet) — POS, inventory, finance, reporting
+- Started as my **undergraduate thesis** (RAD method) — now a production system still running the business today
+- React.js · Node.js/Express · MySQL · Part-time · Hybrid
 
 </details>
 
@@ -164,6 +155,17 @@ Developing & maintaining mission-critical systems for **~900 employees** across 
 <br/>
 
 - Multi-client projects · TypeScript, React, PHP, full-stack solutions
+
+</details>
+
+<details>
+<summary><b>&nbsp;🤖 AI Researcher — Solok Radjo · BRMP Sumatera Barat &nbsp;·&nbsp; Apr 2026–Present</b></summary>
+<br/>
+
+- AI Research: **Computer Vision** untuk prediksi panen kopi Arabika di Kabupaten Solok
+- Dataset lapangan dari BRMP Sumatera Barat (Arosuka), Solok Radjo Academy, petani lokal
+- Object detection 4 kelas kematangan (_green, yellow, red, overripe_) + harvest timing prediction
+- Solok Regency, West Sumatra · Part-time · Hybrid
 
 </details>
 
@@ -212,41 +214,6 @@ Developing & maintaining mission-critical systems for **~900 employees** across 
 ---
 
 ## 🚀 Featured Projects
-
-### 🎓 S2 Thesis — Magister Teknik Informatika
-
-<div align="center">
-
-<table>
-<tr>
-<td width="100%" valign="top">
-
-**☕ coffee-harvest-ai** — *S2 Research Project*
-
-AI system for **Arabica coffee harvest prediction** using Computer Vision and Machine Learning. Detects 4 ripeness classes (_green · yellow · red · overripe_) in real-time and predicts optimal harvest timing from visual + agronomic + weather data.
-
-Research at **BRMP Sumatera Barat · Solok Radjo Academy · Petani Lokal Kabupaten Solok**.
-
-<br/>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![YOLOv11](https://img.shields.io/badge/YOLOv11-FF6F00?style=flat-square&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-1d4ed8?style=flat-square&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
-
-<br/>
-
-![](https://img.shields.io/badge/S2_MTI_Thesis-UPI_YPTK_Padang-00d4ff?style=flat-square)
-![](https://img.shields.io/badge/Precision_Agriculture-Computer_Vision-0ea5e9?style=flat-square)
-
-[→ View Repo](https://github.com/izanmaizan/coffee-harvest-ai)
-
-</td>
-</tr>
-</table>
-
-</div>
 
 ### 🏥 Production — RSUD M. Natsir Solok
 
@@ -332,6 +299,41 @@ Government performance accountability system for RSUD — compliance & reporting
 
 </div>
 
+### 🎓 S2 Thesis — Magister Teknik Informatika
+
+<div align="center">
+
+<table>
+<tr>
+<td width="100%" valign="top">
+
+**☕ coffee-harvest-ai** — *S2 Research Project*
+
+AI system for **Arabica coffee harvest prediction** using Computer Vision and Machine Learning. Detects 4 ripeness classes (_green · yellow · red · overripe_) in real-time and predicts optimal harvest timing from visual + agronomic + weather data.
+
+Research at **BRMP Sumatera Barat · Solok Radjo Academy · Petani Lokal Kabupaten Solok**.
+
+<br/>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![YOLOv11](https://img.shields.io/badge/YOLOv11-FF6F00?style=flat-square&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-1d4ed8?style=flat-square&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
+
+<br/>
+
+![](https://img.shields.io/badge/S2_MTI_Thesis-UPI_YPTK_Padang-00d4ff?style=flat-square)
+![](https://img.shields.io/badge/Precision_Agriculture-Computer_Vision-0ea5e9?style=flat-square)
+
+[→ View Repo](https://github.com/izanmaizan/coffee-harvest-ai)
+
+</td>
+</tr>
+</table>
+
+</div>
+
 ### 🤖 AI / Computer Vision
 
 <div align="center">
@@ -340,17 +342,17 @@ Government performance accountability system for RSUD — compliance & reporting
 <tr>
 <td width="33%" valign="top" align="center">
 
-**🌶️ yolov11-cabai**
-*Chili Plant Detection — YOLOv11*
+**🏦 bank-transaction-ml-analysis**
+*Customer Segmentation — K-Means + Decision Tree*
 
-Latest-gen computer vision. Disease & quality detection on chili plants.
+Clustering + classification pipeline · ~98% test accuracy · Dicoding capstone.
 
 <br/>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![YOLOv11](https://img.shields.io/badge/YOLOv11-FF6F00?style=flat-square&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 
-[→ View Repo](https://github.com/izanmaizan/yolov11-cabai)
+[→ View Repo](https://github.com/izanmaizan/bank-transaction-ml-analysis)
 
 </td>
 <td width="33%" valign="top" align="center">
@@ -396,6 +398,9 @@ Python CLI to access public Indonesian CCTV cameras. Open-source utility.
 
 [![PPE-Detection-YOLOv8](https://github-readme-stats.vercel.app/api/pin/?username=izanmaizan&repo=PPE-Detection-YOLOv8&theme=github_dark&hide_border=true&bg_color=0a1628&title_color=00d4ff&icon_color=38bdf8&text_color=e2e8f0)](https://github.com/izanmaizan/PPE-Detection-YOLOv8)
 [![coffee-harvest-ai](https://github-readme-stats.vercel.app/api/pin/?username=izanmaizan&repo=coffee-harvest-ai&theme=github_dark&hide_border=true&bg_color=0a1628&title_color=00d4ff&icon_color=38bdf8&text_color=e2e8f0)](https://github.com/izanmaizan/coffee-harvest-ai)
+
+[![nurgroup](https://github-readme-stats.vercel.app/api/pin/?username=izanmaizan&repo=nurgroup&theme=github_dark&hide_border=true&bg_color=0a1628&title_color=00d4ff&icon_color=38bdf8&text_color=e2e8f0)](https://github.com/izanmaizan/nurgroup)
+[![NurCakePOS](https://github-readme-stats.vercel.app/api/pin/?username=izanmaizan&repo=NurCakePOS&theme=github_dark&hide_border=true&bg_color=0a1628&title_color=00d4ff&icon_color=38bdf8&text_color=e2e8f0)](https://github.com/izanmaizan/NurCakePOS)
 
 </div>
 
